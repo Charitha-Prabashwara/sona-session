@@ -1,0 +1,14 @@
+{
+    "name": "sona/session",
+    "description": "User Access Control Unit",
+    "type": "composer-plugin",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Charitha Prabashwara",
+            "email": "cp.software.engineering@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
