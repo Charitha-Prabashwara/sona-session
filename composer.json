@@ -1,8 +1,12 @@
 {
     "name": "sona/session",
-    "description": "User Access Control Unit",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Sona\\Session\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Charitha Prabashwara",
