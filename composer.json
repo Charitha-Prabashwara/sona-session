@@ -10,7 +10,7 @@
     "repositories":[
         {
             "type": "vcs",
-            "url": "git@github.com:barryvanveen/secret.git"
+            "url": "git@github.com:Charitha-Prabashwara/sona-session.git"
         }
     ],
     "authors": [
