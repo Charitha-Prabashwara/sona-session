@@ -7,6 +7,12 @@
             "Sona\\Session\\": "src/"
         }
     },
+    "repositories":[
+        {
+            "type": "vcs",
+            "url": "git@github.com:barryvanveen/secret.git"
+        }
+    ],
     "authors": [
         {
             "name": "Charitha Prabashwara",
